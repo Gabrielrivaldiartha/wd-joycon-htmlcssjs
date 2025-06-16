@@ -1,10 +1,27 @@
-### wd-joycon-htmlcssjs
-
-ada contoh di folder example, namun tidak untuk diikuti, karna kamu bisa bikin yang jauh lebih bagus
-baca comments yang ada di dalam file index.html sebelum mengerjakan
-tidak membatasi pendekatan coding yang kamu gunakan dalam membuat tampilan dan interaksi joycon
-kamu bisa membuat sesuai imajinasi kamu dengan minimal memenuhi kriteria yang telah diberikan
-
-ditandai Utama adalah apa yang minimal wajib kamu penuhi dan menjadi batas bawah
-ditandai Poinplus adalah apa yang bisa kamu penuhi untuk mencapai hasil maksimal
-imajinasi dan kreativitas yang lebih akan diapresiasi
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JoyCon</title>
+</head>
+<body>
+       <h3>Sebelum</h3>
+       <p>[^] [<] [>] [B] [A] [v]</p>
+       <h3>Sesudah</h3>
+       <p>[^]</p>
+       <p>[<] [>] [B] [A]</p>
+       <p>[v]</p>
+        <h2>Mengganti warna dan Menambahkan Animasi</h2>
+        <p>Rekomendasi Tombol [^] [<] [>] [v] Menggunakan Warna Putih</p>
+        <p>Untuk Animasi Bebas Menggunakan Apa? Tidak Di Paksakan</p>
+        <p>Menambahkan Tampilan Yang Menampilkan Tombol Yang Kamu Klik</p>
+        <h1></h1> |RIGHT|
+        <p>====================</p>
+        <p>[^]</p>
+       <p>[<] [>] [B] [A]>
+       <p>[v]</p>
+        <p>====================</p>
+        <p>23430229, Gabriel Rivaldi Artha, https://github.com/Gabrielrivaldiartha/wd-joycon-htmlcssjs.git</p>
+        <img src= "D:\UAS_PEMWEB_BD4B\23430229_Gabriel\examplepng.png"
